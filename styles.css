@@ -1,0 +1,32 @@
+p {
+	text-align: center;
+	color: red;
+}
+
+#para2 {
+	text-align: left;
+	color: blue;
+}
+
+.fruit {
+	text-align: right;
+	color: purple
+}
+
+p.fruit {
+	text-align: left;
+	color: green;
+}
+
+.vegetable {
+	font-size: 300%;
+}
+
+* {
+	font-style: italic;
+}
+
+h2, h3 {
+	text-align: center;
+	color: orange
+}
